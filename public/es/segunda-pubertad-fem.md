@@ -1,60 +1,62 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
-title: "Estrogenic Second Puberty 101"
-description: "What to expect from feminizing HRT"
+title: "Segunda pubertad estrogénica"
+description: "Qué esperar de la TRH feminizante"
 preBody: '_declaracion'
 siblings:
   prev: /es/segunda-pubertad-masc
-  prevCaption: Androgenic Second Puberty
+  prevCaption: Segunda pubertad androgénica
   next: /es/conclusion
-  nextCaption: Conclusion
+  nextCaption: Conclusión
 classes:
   - gdb
 ---
 
-# Estrogenic Second Puberty 101
+# Segunda pubertad estrogénica
 
-## What to expect from Feminizing HRT
+## Qué esperar de la TRH feminizante
 
-This is a compilation of reported medical transition changes collected from testimonials of AMAB trans people taking estrogen based hormone therapy. This information is gathered from social media and chat rooms. Yes, that means this is all anecdotal, but historically, most of transgender medical study is anecdotal because no one wants to fund transgender medical research.
+Esta es una compilación de cambios reportados por la transición médica, recolectados de testimonios de gente trans AMAN que seguían un tratamiento de hormonas basados en los estrógenos. Esta información fue recolectada de redes sociales y sitios de chat. Sí, esto significa que es todo anecdótico, pero históricamente, la mayoría del estudio médico transgénero es anecdótico porque nadie quiere financiar investigaciones médicas transgénero.
 
-**Note that this is a list of _possible_ changes. There is no guarantee that every person on feminizing HRT will experience all of these. Your age, genetics, medical history, degree of masculinization from natal puberty, and hormone regimen can all have impacts on results. There is also just a degree of randomness -- every body is different -- and some things can take years to appear.**
+**Nota que esta es  una lista de los _posibles_ cambios. No existe garantía de que toda persona que tome TRH feminizante los vaya a experimentar a todos. Tu edad, genética, historia médica, nivel de masculinización de la pubertad natal, y el régimen de hormonas pueden tener efectos en los resultados. Además hay un nivel de aleatoriedad -- todo cuerpo es diferente --, y algunas cosas pueden tardar años en aparecer.** 
 
-### Breast Growth
+### Crecimiento de mamas
 
-Despite public perceptions, the majority of transfems do not pursue breast augmentation, as it often isn't necessary (and for many, is not within reach). Every human is born with breast tissue, it simply remains inactive without estrogen to make it grow. Development typically takes 2-5 years, but can continue for more than ten years, just as it does for cisgender women.
+Contrario a la percepción pública, la mayor parte de las personas transfemeninas no buscan implantes mamarios, dado que comúnmente no son necesarios (y para muchas, están fuera de su alcance). Cada persona nace con tejido mamario, que simplemente está inactivo sin estrógenos que lo hagan crecer. El desarrollo típicamente tarda de 2 a 5 años, pero puede continuar por más de 10 años, al igual que para las mujeres cisgénero.
 
-Expect aches and pains in the chest, along with lots of tenderness, in the area surrounding and behind the areola. Avoid bumping into anything, as it *will* hurt. Nipples and areolas will become much more sensitive while also becoming larger and darker. You'll want to invest in some sports bras.
+Espera dolores y molestias en el pecho, junto con mucha sensibilidad, en el área alrededor y detrás de la areola. Evita chocarte contra cosas, porque *va* a doler. Los pezones y las areolas se pondrán mucho más sensibles mientras que se oscurecen y se agrandan. Vas a querer conseguir en unos corpiños deportivos.
 
-This may be accompanied with lactation. Some secretion is normal and can be expected as milk ducts form and open up, so there is no cause for alarm. However, significant discharge without intentional stimulation may be a sign of a prolactin imbalance, so you should tell your doctor if this happens.
+Esto puede estar acompañado con lactación. Algo de secreción es normal y es esperable con la formación y la apertura de los conductos lácteos, así que no hay que alarmarse. Sin embargo, descarga significativa sin estimulación intencional puede ser una señal de desequilibrio de prolactina, así que deberías avisarla a tu doctor si esto te sucede.
 
-### Skin Softening
+### Suavizamiento de la piel
 
-Testosterone promotes the thickening and toughening of the epidermis, so removing it makes the skin thinner. Additionally, estrogen promotes the production of collagen, which causes skin to become softer and more iridescent. Expect to see more varicose veins on your legs. Tattoos that may have faded over time might become bolder and clearer.
+La testosterona promueve el engrosamiento y endurecimiento de la epidermis, así que eliminarlo hace que la piel se afine. Adicionalmente, los estrógenos promueven la produción de colágenos, que causa que la piel se suavice y se vuelva más iridiscente. Cuenta con ver más várices en tus piernas. Tatuajes que pueden haberse decolorados con el tiempo podrían volverse más fuertes y claros.
 
-The removal of testosterone also causes a severe drop in skin oils, particularly on the face and scalp. This results in a significant reduction of acne and/or dandruff.
+La eliminación de la testosterona también causa una caída severa de las grasas cutáneas, particularmente en el rostro y en el cuero cabelludo. Esto resulta en una reducción significativa del acné y/o caspa.
 
-### Increased Flexibility
+### Flexibilidad incrementada
 
-Testosterone causes water retention in ligaments and tendons, rendering them less stretchable. Removing androgens from the body causes the tendons to release those fluids and regain their elasticity.
+La testosterona causa retención de fluidos en ligamentos y tendones, volviéndolos menos elásticos. Remover los andrógenos del cuerpo provoca que los tendones liberen esos fluidos y que recuperen su elasticidad.
 
-### Slimmer Hands and Wrists
+### Manos y muñecas más delgadas
 
 {!{
 <div class="gutter flex">
-{{import '~/img' images.hands className="card" caption="The author's hands. This change occurred over the course of three and a half years."}}
+{{import '~/img' images.hands className="card" caption="Las manos de la autora. Este cambio ocurrió después de tres años y medio."}}
 </div>
 }!}
 
-As the skin begins to soften and slim down, the hands gradually begin the shrink. Without testosterone, less blood flows to the hands, causing further reduction in tissue sizes. Ring size will drop as fat and fluids move off the fingers. Finger length shortens as ligaments thin and stretch.
+Mientras la piel comienza a suavizarse y a ponerse más delgada, las manos gradualmente comienzan a achicarse. Sin testosterona, menos sangre fluye a las manos, causando mayor reducción en el tamaño de los tejidos. La talla de anillo disminuirá con la grasa y fluidos que se mueven fuera de los dedos. La longitud de los dedos se achica mientras los ligamentos se afinan y estiran.
 
-### Smaller Feet
+### Pies más chicos
 
-Much like hands, the feet also experience changes in shape. Androgens encourage more blood flow to the feet, and encourage water build up in cartilage. Estrogens allow the ligaments in the foot to stretch more. Collectively this causes the arch of the foot to increase, shortening its total length by as much as two centimeters. Many people report a drop of one to two shoe sizes.
+Como las manos, los pies también experimentan cambios en su forma. Los andrógenos fomentan el flujo de sangre a los pies, y fomentan la retención de líquidos en el cartílago. Los estrógenos permiten que los ligamentos de los pies se estiren más. Colectivamente, esto causa que el arco del pie aumente, achicando su longitud total por hasta dos centímetros. Mucha gente reporta una reducción de uno o dos números en su talla de calzado.
 
-### Thinner & Softer Fingernails
 
-Fingernails are made of keratin, and many keratin genes are activated by androgen receptors, thus causing thicker fingernails. The loss of testosterone will make the nails thinner and more prone to breakage.
+### Uñas más finas y suaves
+
+Las uñas están hechas de keratina, y muchos genes de keratina son activados por receptores androgénicos, así causando uñas más gruesas. La pérdida de la testosterona hará a las uñas más finas y más susceptibles a romperse.
+
 
 ### Reduced Body Hair
 
